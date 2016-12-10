@@ -7,7 +7,7 @@ balloons is an 888-byte digital artwork consisting of a poem about the experienc
 
 the poem is followed by sonic pi code which produces generative music to accompany the poem, processed with effects to simulate the auditory hallucinations caused by the nitrous oxide
 
-it's size is limited to 888 bytes so that it can be stored on an ntag216 NFC/RFID chip which has been implanted into the artist's left hand
+its size is limited to 888 bytes so that it can be stored on an ntag216 NFC/RFID chip which has been implanted into the artist's left hand
 
 
 download from https://adamjohnwilliams.github.io/art/balloons
