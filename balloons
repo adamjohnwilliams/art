@@ -7,7 +7,6 @@
 #All is still, no time progresses
 #Curtain up, expose the mechanism
 #Hey, remember the balloons?
-
 live_loop :k do
 sample :bd_haus
 sleep 0.5
