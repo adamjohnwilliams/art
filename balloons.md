@@ -14,8 +14,8 @@ use sonic pi to hear & interact with the music https://github.com/samaaron/sonic
 performance video coming soon
 
 <img src="https://adamjohnwilliams.github.io/art/adamjohnwilliams_balloons.jpg" width="800" alt text="hand of the artist - NFC chip can be seen between thumb & forefinger">
-
-`#And what if when, I turn to dust
+```
+#And what if when, I turn to dust
 #The earth collapses in around me
 #Falling, shrinking down, compressing
 #Passing to the other side
@@ -58,4 +58,5 @@ end
 end
 end
 #use Sonic Pi, change amp val
-#Adam John Williams 2016`
+#Adam John Williams 2016
+```
